@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dinesh-TSD
 - 👀 I’m interested in ...App,Website Developer...
 - 🌱 I’m currently learning ...FSD MERN Guvi.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Guvi
 - 📫 How to reach me ...dineshtsd76@gmail.com
 
 <!---
